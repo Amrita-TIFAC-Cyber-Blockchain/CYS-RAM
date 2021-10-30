@@ -1,4 +1,4 @@
-# Research Publication Tracker
+# TIFAC-CORE in Cyber Security - Research Publication Tracker
 
 | Name | ORCiD | Google Scholar <br/>Publications | Google Scholar   <br/>h-index | Google Scholar <br/>i10-index | Scopus Publications | Scopus h-index | 
 |------|:------|:---------------------------:|:----------------------:|:------------------------:|:-------------------:|:--------------:|
@@ -11,6 +11,3 @@
 | Mr. R. Ramaguru | [0000-0002-9508-5902](https://orcid.org/0000-0002-9508-5902) | [6](https://scholar.google.co.in/citations?user=-DjvKqgAAAAJ&hl=en) | 2 | 0 | [3](https://www.scopus.com/authid/detail.uri?authorId=57210210467) | 2 |
 | Mr. Saurabh Shrivastava | [0000-0003-0943-6954](https://orcid.org/0000-0003-0943-6954) | 0 | 0 | 0 | 0 | 0 | 
 | Dr. V. Sangeetha | [0000-0002-9568-5000](https://orcid.org/0000-0002-9568-5000) | [18](https://scholar.google.co.in/citations?user=jaxJad8AAAAJ&hl=en) | 5 | 2 | [17](https://www.scopus.com/authid/detail.uri?authorId=57210551454) | 4 |
-
-
-
