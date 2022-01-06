@@ -1,6 +1,8 @@
-# TIFAC-CORE in Cyber Security - Research Publication Tracker
+# TIFAC-CORE in Cyber Security - Research Analysis and Metrics (RAM) 
+This page provides Research Analysis and Metrics of Faculties and Research Scholars from TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore.
 
 ## Faculties
+
 | Name | ORCiD | Google Scholar <br/>Publications (Citations) | Google Scholar   <br/>h-index | Google Scholar <br/>i10-index | Scopus Publications (Citations) | Scopus h-index | 
 |------|:------:|:---------------------------:|:----------------------:|:------------------------:|:-------------------:|:--------------:|
 | Prof. M. Sethumadhavan | [0000-0001-5476-5461](https://orcid.org/0000-0001-5476-5461) | [75 (768)](https://scholar.google.co.in/citations?user=Xl_P9V0AAAAJ&hl=en) | 10 | 13 | [61 (400)](https://www.scopus.com/authid/detail.uri?authorId=55034101000) | 8 | 
@@ -15,9 +17,10 @@
 | Ms. K.N. Ambili | [0000-0002-8451-2497](https://orcid.org/0000-0002-8451-2497) | [6(26)](https://scholar.google.co.in/citations?user=ZWxL_tkAAAAJ&hl=en) | 2 | 1 | [1 (12)](https://www.scopus.com/authid/detail.uri?authorId=57200573039) | 1 |
 
 ## Research Scholars
+
 | Name | ORCiD | Google Scholar <br/>Publications (Citations) | Google Scholar   <br/>h-index | Google Scholar <br/>i10-index | Scopus Publications (Citations) | Scopus h-index | 
 |------|:------:|:---------------------------:|:----------------------:|:------------------------:|:-------------------:|:--------------:|
 | Mr. Rajeev K | - | [23 (232)](https://scholar.google.com/citations?user=D9kO6VgAAAAJ&hl=en) | 8 | 6 | [5 (15)](https://www.scopus.com/authid/detail.uri?authorId=56289833000) | 2 | 
 | Mr. Aravind Vishnu S S | [0000-0002-2374-5764](https://orcid.org/0000-0002-2374-5764) | [1 (0)](https://scholar.google.com/citations?hl=en&user=8q2B8WYAAAAJ&hl=en) | 0 | 0 | [1 (0)](https://www.scopus.com/authid/detail.uri?authorId=57223096858) | 0 | 
 
-#### Last Updated: 06-Jan-2022
+##### Last Updated: 06-Jan-2022
