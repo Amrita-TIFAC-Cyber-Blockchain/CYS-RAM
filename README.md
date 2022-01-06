@@ -22,5 +22,7 @@ This page provides Research Analysis and Metrics of Faculties and Research Schol
 |------|:------:|:---------------------------:|:----------------------:|:------------------------:|:-------------------:|:--------------:|
 | Mr. Rajeev K | - | [23 (232)](https://scholar.google.com/citations?user=D9kO6VgAAAAJ&hl=en) | 8 | 6 | [5 (15)](https://www.scopus.com/authid/detail.uri?authorId=56289833000) | 2 | 
 | Mr. Aravind Vishnu S S | [0000-0002-2374-5764](https://orcid.org/0000-0002-2374-5764) | [1 (0)](https://scholar.google.com/citations?hl=en&user=8q2B8WYAAAAJ&hl=en) | 0 | 0 | [1 (0)](https://www.scopus.com/authid/detail.uri?authorId=57223096858) | 0 | 
+| Ms. Merly Annie Philip | [0000-0003-2548-6441](https://orcid.org/0000-0003-2548-6441) | [2 (35)](https://scholar.google.com/citations?hl=en&user=k8mFoKoAAAAJ&hl=en) | 2 | 1 | [2 (21)](https://www.scopus.com/authid/detail.uri?authorId=57202992926) | 2 | 
+| Mr. Harish R | - | [1 (0)](https://scholar.google.co.in/citations?hl=en&user=weIsDiIAAAAJ&hl=en) | 0 | 0 | [1 (0)](https://www.scopus.com/authid/detail.uri?authorId=57222348310) | 0 | 
 
 ##### Last Updated: 06-Jan-2022
