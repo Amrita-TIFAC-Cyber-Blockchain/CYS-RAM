@@ -3,28 +3,28 @@ This page provides Research Analysis and Metrics of Faculties and Research Schol
 
 ## Faculties
 
-| Name | ORCiD | Google Scholar <br/>Publications (Citations) | Google Scholar   <br/>h-index | Google Scholar <br/>i10-index | Scopus Publications (Citations) | Scopus h-index | 
+| Name | ORCiD <br/> 0000-000| Google Scholar <br/>Publications (Citations) | Google Scholar   <br/>h-index | Google Scholar <br/>i10-index | Scopus <br/> Publications (Citations) | Scopus <br/> h-index | 
 |------|:------:|:---------------------------:|:----------------------:|:------------------------:|:-------------------:|:--------------:|
-| Prof. M. Sethumadhavan | [0000-0001-5476-5461](https://orcid.org/0000-0001-5476-5461) | [76 (782)](https://scholar.google.co.in/citations?user=Xl_P9V0AAAAJ&hl=en) | 10 | 13 | [61 (405)](https://www.scopus.com/authid/detail.uri?authorId=55034101000) | 8 | 
-| Dr. C. Srinivasan | [0000-0002-7027-4926](https://orcid.org/0000-0002-7027-4926) | [23 (79)](https://scholar.google.co.in/citations?user=nlt0DD4AAAAJ&hl=en) | 4 | 1 | [17 (51)](https://www.scopus.com/authid/detail.uri?authorId=43261707200) | 3 |
-| Dr. K.V. Lakshmy | [0000-0001-5344-2855](https://orcid.org/0000-0001-5344-2855) | [22 (83)](https://scholar.google.co.in/citations?user=K2n1nh0AAAAJ&hl=en) | 7 | 2 | [20 (59)](https://www.scopus.com/authid/detail.uri?authorId=55032484300) | 5 |
-| Dr. P.P. Amritha | [0000-0002-0761-6057](https://orcid.org/0000-0002-0761-6057) | [35 (160)](https://scholar.google.co.in/citations?user=8AwtAWsAAAAJ&hl=en) | 6 | 2 | [38 (41)](https://www.scopus.com/authid/detail.uri?authorId=36536628700) | 3 |
-| Dr. K. Praveen | [0000-0002-4739-7928](https://orcid.org/0000-0002-4739-7928) | [35 (100)](https://scholar.google.com/citations?hl=en&user=NHVcW84AAAAJ&hl=en) | 5 | 3 | [30 (73)](https://www.scopus.com/authid/detail.uri?authorId=8552046600) | 4 |
-| Mr. Ashok Kumar Mohan | [0000-0003-3519-2228](https://orcid.org/0000-0003-3519-2228) | [23 (82)](https://scholar.google.co.in/citations?user=W6nvRkQAAAAJ&hl=en) | 6 | 2 | [15 (34)](https://www.scopus.com/authid/detail.uri?authorId=57195934643) | 4 |
-| Mr. R. Ramaguru | [0000-0002-9508-5902](https://orcid.org/0000-0002-9508-5902) | [6 (24)](https://scholar.google.co.in/citations?user=-DjvKqgAAAAJ&hl=en) | 3 | 1 | [4 (13)](https://www.scopus.com/authid/detail.uri?authorId=57210210467) | 2 |
-| Mr. Saurabh Shrivastava | [0000-0003-0943-6954](https://orcid.org/0000-0003-0943-6954) | [0 (0)](https://scholar.google.com/citations?user=QdXcVjUAAAAJ&hl=en) | 0 | 0 | 0 (0) | 0 | 
-| Dr. V. Sangeetha | [0000-0002-9568-5000](https://orcid.org/0000-0002-9568-5000) | [18 (86)](https://scholar.google.co.in/citations?user=jaxJad8AAAAJ&hl=en) | 6 | 2 | [17 (53)](https://www.scopus.com/authid/detail.uri?authorId=57210551454) | 5 |
-| Ms. K.N. Ambili | [0000-0002-8451-2497](https://orcid.org/0000-0002-8451-2497) | [10 (27)](https://scholar.google.co.in/citations?user=ZWxL_tkAAAAJ&hl=en) | 2 | 1 | [1 (12)](https://www.scopus.com/authid/detail.uri?authorId=57200573039) | 1 |
+| Prof. M. Sethumadhavan | [1-5476-5461](https://orcid.org/0000-0001-5476-5461) | [76 (782)](https://scholar.google.co.in/citations?user=Xl_P9V0AAAAJ&hl=en) | 10 | 13 | [61 (405)](https://www.scopus.com/authid/detail.uri?authorId=55034101000) | 8 | 
+| Dr. C. Srinivasan | [2-7027-4926](https://orcid.org/0000-0002-7027-4926) | [23 (79)](https://scholar.google.co.in/citations?user=nlt0DD4AAAAJ&hl=en) | 4 | 1 | [17 (51)](https://www.scopus.com/authid/detail.uri?authorId=43261707200) | 3 |
+| Dr. K.V. Lakshmy | [1-5344-2855](https://orcid.org/0000-0001-5344-2855) | [22 (83)](https://scholar.google.co.in/citations?user=K2n1nh0AAAAJ&hl=en) | 7 | 2 | [20 (59)](https://www.scopus.com/authid/detail.uri?authorId=55032484300) | 5 |
+| Dr. P.P. Amritha | [2-0761-6057](https://orcid.org/0000-0002-0761-6057) | [41 (159)](https://scholar.google.co.in/citations?user=8AwtAWsAAAAJ&hl=en) | 6 | 2 | [38 (41)](https://www.scopus.com/authid/detail.uri?authorId=36536628700) | 3 |
+| Dr. K. Praveen | [2-4739-7928](https://orcid.org/0000-0002-4739-7928) | [35 (100)](https://scholar.google.com/citations?hl=en&user=NHVcW84AAAAJ&hl=en) | 5 | 3 | [30 (73)](https://www.scopus.com/authid/detail.uri?authorId=8552046600) | 4 |
+| Mr. Ashok Kumar Mohan | [3-3519-2228](https://orcid.org/0000-0003-3519-2228) | [23 (82)](https://scholar.google.co.in/citations?user=W6nvRkQAAAAJ&hl=en) | 6 | 2 | [15 (34)](https://www.scopus.com/authid/detail.uri?authorId=57195934643) | 4 |
+| Mr. R. Ramaguru | [2-9508-5902](https://orcid.org/0000-0002-9508-5902) | [6 (24)](https://scholar.google.co.in/citations?user=-DjvKqgAAAAJ&hl=en) | 3 | 1 | [4 (13)](https://www.scopus.com/authid/detail.uri?authorId=57210210467) | 2 |
+| Mr. Saurabh Shrivastava | [3-0943-6954](https://orcid.org/0000-0003-0943-6954) | [0 (0)](https://scholar.google.com/citations?user=QdXcVjUAAAAJ&hl=en) | 0 | 0 | 0 (0) | 0 | 
+| Dr. V. Sangeetha | [2-9568-5000](https://orcid.org/0000-0002-9568-5000) | [18 (86)](https://scholar.google.co.in/citations?user=jaxJad8AAAAJ&hl=en) | 6 | 2 | [17 (53)](https://www.scopus.com/authid/detail.uri?authorId=57210551454) | 5 |
+| Ms. K.N. Ambili | [2-8451-2497](https://orcid.org/0000-0002-8451-2497) | [10 (27)](https://scholar.google.co.in/citations?user=ZWxL_tkAAAAJ&hl=en) | 2 | 1 | [1 (12)](https://www.scopus.com/authid/detail.uri?authorId=57200573039) | 1 |
 
 ## Research Scholars
 
-| Name | ORCiD | Google Scholar <br/>Publications (Citations) | Google Scholar   <br/>h-index | Google Scholar <br/>i10-index | Scopus Publications (Citations) | Scopus h-index | 
+| Name | ORCiD <br/> 0000-000| Google Scholar <br/>Publications (Citations) | Google Scholar   <br/>h-index | Google Scholar <br/>i10-index | Scopus <br/> Publications  (Citations) | Scopus <br/> h-index | 
 |------|:------:|:---------------------------:|:----------------------:|:------------------------:|:-------------------:|:--------------:|
 | Mr. Rajeev K | - | [5 (30)](https://scholar.google.com/citations?user=D9kO6VgAAAAJ&hl=en) | 4 | 1 | [5 (15)](https://www.scopus.com/authid/detail.uri?authorId=56289833000) | 2 | 
-| Mr. Aravind Vishnu S S | [0000-0002-2374-5764](https://orcid.org/0000-0002-2374-5764) | [1 (0)](https://scholar.google.com/citations?hl=en&user=8q2B8WYAAAAJ&hl=en) | 0 | 0 | [1 (0)](https://www.scopus.com/authid/detail.uri?authorId=57223096858) | 0 | 
-| Ms. Merly Annie Philip | [0000-0003-2548-6441](https://orcid.org/0000-0003-2548-6441) | [2 (35)](https://scholar.google.com/citations?hl=en&user=k8mFoKoAAAAJ&hl=en) | 2 | 1 | [2 (22)](https://www.scopus.com/authid/detail.uri?authorId=57202992926) | 2 | 
+| Mr. Aravind Vishnu S S | [2-2374-5764](https://orcid.org/0000-0002-2374-5764) | [1 (0)](https://scholar.google.com/citations?hl=en&user=8q2B8WYAAAAJ&hl=en) | 0 | 0 | [1 (0)](https://www.scopus.com/authid/detail.uri?authorId=57223096858) | 0 | 
+| Ms. Merly Annie Philip | [3-2548-6441](https://orcid.org/0000-0003-2548-6441) | [2 (35)](https://scholar.google.com/citations?hl=en&user=k8mFoKoAAAAJ&hl=en) | 2 | 1 | [2 (22)](https://www.scopus.com/authid/detail.uri?authorId=57202992926) | 2 | 
 | Ms. Zeenath AU | - | [0 (0)](https://scholar.google.com/citations?hl=en&user=MugxgaYAAAAJ&hl=en) | 0 | 0 | 0 (0) | 0 | 
 | Mr. Joseph Nelson P | - | [0 (0)](https://scholar.google.com/citations?hl=en&user=RnkThh8AAAAJ&hl=en) | 0 | 0 | 0 (0) | 0 | 
-| Mr. Harish R | - | [3 (1)](https://scholar.google.co.in/citations?hl=en&user=weIsDiIAAAAJ&hl=en) | 1 | 0 | [1 (0)](https://www.scopus.com/authid/detail.uri?authorId=57222348310) | 0 | 
+| Mr. Harish R | - | [2 (1)](https://scholar.google.co.in/citations?hl=en&user=weIsDiIAAAAJ&hl=en) | 1 | 0 | [1 (0)](https://www.scopus.com/authid/detail.uri?authorId=57222348310) | 0 | 
 
-##### Last Updated: 18-Jan-2022
+##### Last Updated: 21-Jan-2022
