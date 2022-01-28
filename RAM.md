@@ -1,4 +1,6 @@
-This page provides Research Analysis and Metrics of Faculties and Research Scholars from TIFAC-CORE in Cyber Security, Amrita School of Engineering, Amrita Vishwa Vidyapeetham, Coimbatore.
+# Research & Analysis Metrics of Faculties and Research Scholars
+
+This page provides Research Analysis and Metrics of Faculties and Research Scholars.
 
 ## Faculties
 
@@ -15,16 +17,16 @@ This page provides Research Analysis and Metrics of Faculties and Research Schol
 | Dr. V. Sangeetha | [2-9568-5000](https://orcid.org/0000-0002-9568-5000) | [18 (89)](https://scholar.google.co.in/citations?user=jaxJad8AAAAJ&hl=en) | 6 | 3 | [17 (57)](https://www.scopus.com/authid/detail.uri?authorId=57210551454) | 5 |
 | Ms. K.N. Ambili | [2-8451-2497](https://orcid.org/0000-0002-8451-2497) | [10 (27)](https://scholar.google.co.in/citations?user=ZWxL_tkAAAAJ&hl=en) | 2 | 1 | [1 (13)](https://www.scopus.com/authid/detail.uri?authorId=57200573039) | 1 |
 
-## Research Scholars
+## Research Scholars (Full-Time)
 
 | Name | ORCiD <br/> 0000-000| Google Scholar <br/>Publications (Citations) | Google Scholar   <br/>h-index | Google Scholar <br/>i10-index | Scopus <br/> Publications  (Citations) | Scopus <br/> h-index | 
 |------|:------:|:---------------------------:|:----------------------:|:------------------------:|:-------------------:|:--------------:|
 | Mr. Rajeev K | - | [5 (30)](https://scholar.google.com/citations?user=D9kO6VgAAAAJ&hl=en) | 4 | 1 | [5 (15)](https://www.scopus.com/authid/detail.uri?authorId=56289833000) | 2 | 
-| Mr. Aravind Vishnu S S | [2-2374-5764](https://orcid.org/0000-0002-2374-5764) | [1 (0)](https://scholar.google.com/citations?hl=en&user=8q2B8WYAAAAJ&hl=en) | 0 | 0 | [1 (0)](https://www.scopus.com/authid/detail.uri?authorId=57223096858) | 0 | 
-| Ms. Merly Annie Philip | [3-2548-6441](https://orcid.org/0000-0003-2548-6441) | [2 (35)](https://scholar.google.com/citations?hl=en&user=k8mFoKoAAAAJ&hl=en) | 2 | 1 | [2 (22)](https://www.scopus.com/authid/detail.uri?authorId=57202992926) | 2 | 
-| Ms. Zeenath AU | - | [0 (0)](https://scholar.google.com/citations?hl=en&user=MugxgaYAAAAJ&hl=en) | 0 | 0 | 0 (0) | 0 | 
-| Mr. Joseph Nelson P | - | [0 (0)](https://scholar.google.com/citations?hl=en&user=RnkThh8AAAAJ&hl=en) | 0 | 0 | 0 (0) | 0 | 
-| Mr. Harish R | - | [2 (1)](https://scholar.google.co.in/citations?hl=en&user=weIsDiIAAAAJ&hl=en) | 1 | 0 | [1 (0)](https://www.scopus.com/authid/detail.uri?authorId=57222348310) | 0 | 
-| Ms. Bhadra Sasidharan | - | [0 (0)]() | 0 | 0 | [0 (0)]() | 0 | 
+| Mr. Aravind Vishnu S S | [2-2374-5764](https://orcid.org/0000-0002-2374-5764) | [1 (0)](https://scholar.google.com/citations?user=8q2B8WYAAAAJ&hl=en) | 0 | 0 | [1 (0)](https://www.scopus.com/authid/detail.uri?authorId=57223096858) | 0 | 
+| Ms. Merly Annie Philip | [3-2548-6441](https://orcid.org/0000-0003-2548-6441) | [2 (35)](https://scholar.google.com/citations?&user=k8mFoKoAAAAJ&hl=en) | 2 | 1 | [2 (22)](https://www.scopus.com/authid/detail.uri?authorId=57202992926) | 2 | 
+| Ms. Zeenath AU | - | [0 (0)](https://scholar.google.com/citations?user=MugxgaYAAAAJ&hl=en) | 0 | 0 | 0 (0) | 0 | 
+| Mr. Joseph Nelson P | - | [0 (0)](https://scholar.google.com/citations?user=RnkThh8AAAAJ&hl=en) | 0 | 0 | 0 (0) | 0 | 
+| Mr. Harish R | - | [2 (1)](https://scholar.google.co.in/citations?user=weIsDiIAAAAJ&hl=en) | 1 | 0 | [1 (0)](https://www.scopus.com/authid/detail.uri?authorId=57222348310) | 0 | 
+| Ms. Bhadra Sasidharan | - | [0 (0)](https://scholar.google.co.in/citations?user=a&hl=en) | 0 | 0 | [0 (0)](https://www.scopus.com/authid/detail.uri?authorId=0) | 0 | 
 
 ##### Last Updated: 28-Jan-2022
