@@ -1,6 +1,11 @@
-# Research & Analysis Metrics of Faculties and Research Scholars
+<p align="center">
+    <img src="https://github.com/Amrita-TIFAC-Cyber-Blockchain/Amrita-TIFAC-Cyber-Blockchain/blob/master/AVV_PNG.png" alt ="Amrita" width="400" />
+    <img src="https://amrita.edu/wp-content/uploads/2021/09/1597668744269.jpg" alt ="TIFC-CYBER" width="180" />
+</p>
 
-This page provides Research Analysis and Metrics of Faculties and Research Scholars.
+# Research Analysis and Metrics of Faculties & Research Scholars
+
+This page provides Research Analysis and Metrics of Faculties & Research Scholars.
 
 ## Faculties
 
