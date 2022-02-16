@@ -33,7 +33,9 @@
   
 - [Publications - Year Wise](Publications/Main.md)
 
-- [Faculties and Research Scholar Metrics](RAM.md)
+- [Faculties Metrics](RAM-F.md)
+
+- [Research Scholar Metrics](RAM-RA.md)
 
 
 ## Credits
