@@ -33,7 +33,7 @@
   
 - [Publications - Year Wise](Publications/Main.md)
 
-- [Faculties Metrics](RAM-F.md)
+- [Faculty Metrics](RAM-F.md)
 
 - [Research Scholar Metrics](RAM-RA.md)
 
