@@ -19,4 +19,4 @@ This page provides Research Analysis and Metrics of Research Scholars.
 | <img src="Assets/ResearchScholars/HR.jpg" alt="Harish R" width="120"/> <br/> Mr. Harish R | [0000-0003-0722-6953](https://orcid.org/0000-0003-0722-6953) | [3](https://scholar.google.co.in/citations?user=weIsDiIAAAAJ&hl=en) <br/> ![](https://img.shields.io/badge/Amrita-3-violet)  <br/> ![](https://img.shields.io/badge/Citations-1-blue)  <br/>  ![](https://img.shields.io/badge/h_index-1-green) <br/> ![](https://img.shields.io/badge/i10_index-0-lightgreen) | [2](https://www.scopus.com/authid/detail.uri?authorId=57222348310) <br/> ![](https://img.shields.io/badge/Amrita-2-violet) <br/> ![](https://img.shields.io/badge/Citations-0-blue) <br/> ![](https://img.shields.io/badge/h_index-0-green) <br/> ![](https://img.shields.io/badge/h_index-0-brightgreen) | 
 | <img src="Assets/ResearchScholars/BS.jpg" alt="Bhadra Sasidharan" width="120"/> <br/> Ms. Bhadra Sasidharan | - | [0](https://scholar.google.co.in/citations?user=a&hl=en) |  0 | 
 
-##### Last Updated: 13-Mar-2022
+##### Last Updated: 17-Mar-2022
