@@ -14,15 +14,16 @@
 - **Publications-Area Stats**
   - ![](https://img.shields.io/badge/Android_Security-TBD-brightgreen)
   - ![](https://img.shields.io/badge/Blockchain_Technology-22-brightgreen) ![](https://img.shields.io/badge/Cryptocurrency-1-brightgreen)
-  - ![](https://img.shields.io/badge/Cryptography-TBD-brightgreen) ![](https://img.shields.io/badge/Cryptanalysis-TBD-brightgreen) ![](https://img.shields.io/badge/Steganography-TBD-brightgreen) ![](https://img.shields.io/badge/Visual_Cryptography-TBD-brightgreen)
+  - ![](https://img.shields.io/badge/Cryptography-TBD-brightgreen) ![](https://img.shields.io/badge/Cryptanalysis-TBD-brightgreen) 
+  - ![](https://img.shields.io/badge/Steganography-TBD-brightgreen) ![](https://img.shields.io/badge/Steganalysis-TBD-brightgreen)  ![](https://img.shields.io/badge/Visual_Cryptography-TBD-brightgreen)
   - ![](https://img.shields.io/badge/Cyber_Forensics-TBD-brightgreen)
-  - ![](https://img.shields.io/badge/Formal_Methods-TBD-brightgreen)
+  - ![](https://img.shields.io/badge/Formal_Methods-2-brightgreen)
   - ![](https://img.shields.io/badge/Network_Security-TBD-brightgreen) ![](https://img.shields.io/badge/Wireless-TBD-brightgreen)
   - ![](https://img.shields.io/badge/Vulnerability_Assessment-TBD-brightgreen)
 
 - **Most Cited Papers - Top 5**
   
-    - ![](https://img.shields.io/badge/Citations-389-blue) ![](https://img.shields.io/badge/Year-2017-brightgreen) ![](https://img.shields.io/badge/-MTech-blue) ![](https://img.shields.io/badge/Domain-Blockchain_Technology-purple) [Sankar, L. S., Sindhu, M., & Sethumadhavan, M.]() (2017). **Survey of consensus protocols on blockchain applications.** In 2017 4th _international conference on advanced computing and communication systems (ICACCS)_ pp. 1-5. IEEE.
+    - ![](https://img.shields.io/badge/Citations-391-blue) ![](https://img.shields.io/badge/Year-2017-brightgreen) ![](https://img.shields.io/badge/-MTech-blue) ![](https://img.shields.io/badge/Domain-Blockchain_Technology-purple) [Sankar, L. S., Sindhu, M., & Sethumadhavan, M.]() (2017). **Survey of consensus protocols on blockchain applications.** In 2017 4th _international conference on advanced computing and communication systems (ICACCS)_ pp. 1-5. IEEE.
     - ![](https://img.shields.io/badge/Citations-66-blue) ![](https://img.shields.io/badge/Year-2018-brightgreen) ![](https://img.shields.io/badge/-MTech-blue) ![](https://img.shields.io/badge/Domain-Blockchain_Technology-purple) [Sajana, P., Sindhu, M., & Sethumadhavan, M.]() (2018). **On blockchain applications: hyperledger fabric and ethereum.** _International Journal of Pure and Applied Mathematics_, 118(18), 2965-2970.
     - ![](https://img.shields.io/badge/Citations-60-blue) ![](https://img.shields.io/badge/Year-2010-brightgreen) ![](https://img.shields.io/badge/-MTech-blue) ![](https://img.shields.io/badge/Domain-Stego-purple) [Sherly, A. P., & Amritha, P. P.]() (2010). **A compressed video steganography using TPVD.** _International Journal of Database Management Systems (IJDMS)_, 2(3), 67-80.
     - ![](https://img.shields.io/badge/Citations-43-blue) ![](https://img.shields.io/badge/Year-2016-brightgreen) ![](https://img.shields.io/badge/-MTech-blue) ![](https://img.shields.io/badge/Domain-Crypto-purple) [Mukundan, P. M., Manayankath, S., Srinivasan, C., & Sethumadhavan, M.]() (2016). **Hash-One: a lightweight cryptographic hash function.** _IET Information Security_, 10(5), 225-231.
@@ -43,4 +44,4 @@
 | [2008](2008.md) | [2018](2018.md) | 2028            |
 | [2009](2009.md) | [2019](2019.md) | 2029            |
 
-##### Last Updated: 17-Mar-2022
+##### Last Updated: 02-Apr-2022
