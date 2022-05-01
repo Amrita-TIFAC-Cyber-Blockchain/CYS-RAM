@@ -82,11 +82,11 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 | **Total** | 5 | 6	| 16 | 35 |	54 | 83 | 89 |
 
 - **Mr. R. Ramaguru**
-![](https://img.shields.io/badge/Cites/year-13.0-blue)
-![](https://img.shields.io/badge/Cites/paper-3.90-blue)
+![](https://img.shields.io/badge/Cites/year-3.55-blue)
+![](https://img.shields.io/badge/Cites/paper-3.25-blue)
 ![](https://img.shields.io/badge/g_index-6-green)
 ![](https://img.shields.io/badge/hA_index-3-green)
-![](https://img.shields.io/badge/hI,_annual_index-0.67-purple)
+![](https://img.shields.io/badge/hI,_annual_index-0.18-purple)
 
 | Year | 2019 | 2020 | 2021 | 2022 |
 |:----:|:----:|:----:|:----:|:----:|
@@ -114,8 +114,8 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 
 | Year | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| New	| 4	| 3 |  8 | 7 | 13	| 35 | 16 |
-| Total	| 4	| 7 |	15 | 22 | 35 | 70 | 86 |
+| New	| 4	| 3 | 8 | 7 | 13 | 35 | 16 |
+| Total	| 4	| 7 | 15 | 22 | 35 | 70 | 86 |
 
 - **Ms. K.N. Ambili**
 ![](https://img.shields.io/badge/Cites/year-6.20-blue)
@@ -129,4 +129,4 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 | **New** | 4 | 6 | 7 | 10 | 4 |
 | **Total**	| 4	| 10 | 17 | 27 | 31 |
 
-##### Last Updated: 30-Apr-2022
+##### Last Updated: 01-May-2022
