@@ -10,21 +10,21 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 ### Faculties
 
 - **Prof. M Sethumadhavan**
-![](https://img.shields.io/badge/Cites/year-52.75-blue)
-![](https://img.shields.io/badge/Cites/paper-10.55-blue)
+![](https://img.shields.io/badge/Cites/year-53.13-blue)
+![](https://img.shields.io/badge/Cites/paper-10.63-blue)
 ![](https://img.shields.io/badge/Authors/paper-2.96-blue)
-![](https://img.shields.io/badge/g_index-27-green)
+![](https://img.shields.io/badge/g_index-28-green)
 ![](https://img.shields.io/badge/hA_index-5-green)
 ![](https://img.shields.io/badge/hI,_annual_index-0.38-purple)
 
 | Year | 2013	| 2014 | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New**	 | 6  | 9  | 12 | 30 | 43  | 88  | 144 | 171 | 258 | 69  |
-| **Total**  | 20 | 29 | 41 | 71 | 114 | 202 | 346 | 517 | 775 | 844 |
+| **New**	 | 6  | 9  | 12 | 30 | 43  | 88  | 145 | 173 | 259 | 71  |
+| **Total**  | 20 | 29 | 41 | 71 | 114 | 202 | 347 | 520 | 779 | 850 |
 
 - **Dr. C. Srinivasan**
-![](https://img.shields.io/badge/Cites/year-6.50-blue)
-![](https://img.shields.io/badge/Cites/paper-4.33-blue)
+![](https://img.shields.io/badge/Cites/year-6.57-blue)
+![](https://img.shields.io/badge/Cites/paper-4.38-blue)
 ![](https://img.shields.io/badge/Authors/paper-3.10-blue)
 ![](https://img.shields.io/badge/g_index-9-green)
 ![](https://img.shields.io/badge/hA_index-2-green)
@@ -32,8 +32,8 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 
 | Year | 2011 | 2012 | 2013	| 2014 | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New**	 | 1 | 1 | 1 | 2 | 2 | 7 | 11 |	11 | 10	| 16 | 15 | 14 | 
-| **Total** | 1	| 2 | 3 | 5 | 7	| 14 | 25 | 36 | 46	| 62 | 77 | 91 |
+| **New**	 | 1 | 1 | 1 | 2 | 2 | 7 | 11 |	11 | 10	| 16 | 16 | 14 | 
+| **Total** | 1	| 2 | 3 | 5 | 7	| 14 | 25 | 36 | 46	| 62 | 78 | 92 |
 
 - **Dr. P. P. Amritha**
 ![](https://img.shields.io/badge/Cites/year-16.00-blue)
@@ -62,8 +62,8 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 | **Total** | 4	| 4	| 5 | 6 | 11 | 26 |	42 | 56 | 71 | 98 | 109 |
 
 - **Dr. K.V. Lakshmy**
-![](https://img.shields.io/badge/Cites/year-13.00-blue)
-![](https://img.shields.io/badge/Cites/paper-6.50-blue)
+![](https://img.shields.io/badge/Cites/year-13.18-blue)
+![](https://img.shields.io/badge/Cites/paper-6.59-blue)
 ![](https://img.shields.io/badge/Authors/paper-2.91-blue)
 ![](https://img.shields.io/badge/g_index-11-green)
 ![](https://img.shields.io/badge/hA_index-4-green)
@@ -71,21 +71,21 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 
 | Year | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New** | 5 |	6 |	5 |	6 |	7 | 42 | 50 | 22 |
-| **Total** | 5 | 11 | 16 | 22 | 29 | 71 | 121 | 143 |
+| **New** | 5 |	6 |	5 |	6 |	7 | 42 | 50 | 24 |
+| **Total** | 5 | 11 | 16 | 22 | 29 | 71 | 121 | 145 |
 
 - **Mr. Ashok Kumar Mohan**
-![](https://img.shields.io/badge/Cites/year-3.21-blue)
-![](https://img.shields.io/badge/Cites/paper-3.46-blue)
+![](https://img.shields.io/badge/Cites/year-3.25-blue)
+![](https://img.shields.io/badge/Cites/paper-3.50-blue)
 ![](https://img.shields.io/badge/Authors/paper-3.12-blue)
 ![](https://img.shields.io/badge/g_index-8-green)
-![](https://img.shields.io/badge/hA_index-2-green)
+![](https://img.shields.io/badge/hA_index-3-green)
 ![](https://img.shields.io/badge/hI,_annual_index-0.11-purple)
 
 | Year | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New** |	1 |	1 |	10 | 19 | 19 | 29 |	7 |
-| **Total** | 5 | 6	| 16 | 35 |	54 | 83 | 90 |
+| **New** |	1 |	1 |	10 | 19 | 19 | 29 |	8 |
+| **Total** | 5 | 6	| 16 | 35 |	54 | 83 | 91 |
 
 - **Mr. Saurabh Shrivastava**
 ![](https://img.shields.io/badge/Cites/year-0.0-blue)
@@ -101,8 +101,8 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 | **Total** | 0 |
 
 - **Mr. R. Ramaguru**
-![](https://img.shields.io/badge/Cites/year-3.73-blue)
-![](https://img.shields.io/badge/Cites/paper-3.42-blue)
+![](https://img.shields.io/badge/Cites/year-3.82-blue)
+![](https://img.shields.io/badge/Cites/paper-3.50-blue)
 ![](https://img.shields.io/badge/Authors/paper-2.58-blue)
 ![](https://img.shields.io/badge/g_index-6-green)
 ![](https://img.shields.io/badge/hA_index-3-green)
@@ -110,8 +110,8 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 
 | Year | 2019 | 2020 | 2021 | 2022 |
 |:----:|:----:|:----:|:----:|:----:|
-| **New** |	1 | 4 | 19 | 15 |
-| **Total** | 3	| 7 | 26 | 41 |
+| **New** |	1 | 4 | 19 | 16 |
+| **Total** | 3	| 7 | 26 | 42 |
 
 - **Dr. V. Sangeetha**
 ![](https://img.shields.io/badge/Cites/year-10.75-blue)
@@ -139,4 +139,4 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 | **New** | 4 | 6 | 7 | 10 | 4 |
 | **Total**	| 4	| 10 | 17 | 27 | 31 |
 
-##### Last Updated: 16-May-2022
+##### Last Updated: 23-May-2022
