@@ -10,8 +10,8 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 ### Faculties
 
 - **Prof. M Sethumadhavan**
-![](https://img.shields.io/badge/Cites/year-55.38-blue)
-![](https://img.shields.io/badge/Cites/paper-11.08-blue)
+![](https://img.shields.io/badge/Cites/year-56.00-blue)
+![](https://img.shields.io/badge/Cites/paper-11.20-blue)
 ![](https://img.shields.io/badge/Authors/paper-2.96-blue)
 ![](https://img.shields.io/badge/g_index-28-green)
 ![](https://img.shields.io/badge/hA_index-5-green)
@@ -19,12 +19,12 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 
 | Year | 2013	| 2014 | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New**	 | 6  | 9  | 12 | 29 | 45  | 90  | 143 | 170 | 266 | 103  |
-| **Total**  | 19 | 28 | 40 | 69 | 114 | 204 | 347 | 517 | 783 | 886 |
+| **New**	 | 6  | 9  | 12 | 29 | 45  | 90  | 143 | 170 | 266 | 113  |
+| **Total**  | 19 | 28 | 40 | 69 | 114 | 204 | 347 | 517 | 783 | 896 |
 
 - **Dr. C. Srinivasan**
-![](https://img.shields.io/badge/Cites/year-6.64-blue)
-![](https://img.shields.io/badge/Cites/paper-4.43-blue)
+![](https://img.shields.io/badge/Cites/year-6.86-blue)
+![](https://img.shields.io/badge/Cites/paper-4.57-blue)
 ![](https://img.shields.io/badge/Authors/paper-3.10-blue)
 ![](https://img.shields.io/badge/g_index-9-green)
 ![](https://img.shields.io/badge/hA_index-2-green)
@@ -32,12 +32,12 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 
 | Year | 2011 | 2012 | 2013	| 2014 | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New**	 | 1 | 1 | 1 | 2 | 2 | 7 | 11 |	11 | 10	| 16 | 15 | 16 | 
-| **Total** | 1	| 2 | 3 | 5 | 7	| 14 | 25 | 36 | 46	| 62 | 77 | 93 |
+| **New**	 | 1 | 1 | 1 | 2 | 2 | 7 | 11 |	11 | 10	| 16 | 15 | 19 | 
+| **Total** | 1	| 2 | 3 | 5 | 7	| 14 | 25 | 36 | 46	| 62 | 77 | 96 |
 
 - **Dr. P. P. Amritha**
-![](https://img.shields.io/badge/Cites/year-17.00-blue)
-![](https://img.shields.io/badge/Cites/paper-5.02-blue)
+![](https://img.shields.io/badge/Cites/year-17.38-blue)
+![](https://img.shields.io/badge/Cites/paper-5.14-blue)
 ![](https://img.shields.io/badge/Authors/paper-2.93-blue)
 ![](https://img.shields.io/badge/g_index-13-green)
 ![](https://img.shields.io/badge/hA_index-3-green)
@@ -45,25 +45,25 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 
 | Year | 2011 | 2012 | 2013	| 2014 | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New** | 1 |	2 |	7 |	8 |	11 | 15 | 18 | 20 | 21 | 34 | 53 | 28 | 
-| **Total** | 4	| 6 | 13 | 21 |	32 | 47 | 65 | 85 | 106 | 140 | 193 | 221 |
+| **New** | 1 |	2 |	7 |	8 |	11 | 15 | 18 | 20 | 21 | 34 | 53 | 33 | 
+| **Total** | 4	| 6 | 13 | 21 |	32 | 47 | 65 | 85 | 106 | 140 | 193 | 226 |
 
 - **Dr. K. Praveen**
-![](https://img.shields.io/badge/Cites/year-9.42-blue)
-![](https://img.shields.io/badge/Cites/paper-2.97-blue)
-![](https://img.shields.io/badge/Authors/paper-2.68-blue)
+![](https://img.shields.io/badge/Cites/year-9.50-blue)
+![](https://img.shields.io/badge/Cites/paper-2.92-blue)
+![](https://img.shields.io/badge/Authors/paper-2.67-blue)
 ![](https://img.shields.io/badge/g_index-8-green)
 ![](https://img.shields.io/badge/hA_index-2-green)
 ![](https://img.shields.io/badge/hI,_annual_index-0.25-purple)
 
 | Year | 2012 | 2013	| 2014 | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New** |	2 |	0 |	1 |	1 |	5 | 15 | 16 | 14 | 14 | 29 | 15 | 
-| **Total** | 3	| 3	| 4 | 5 | 10 | 25 |	41 | 55 | 69 | 98 | 113 |
+| **New** |	2 |	0 |	1 |	1 |	5 | 15 | 16 | 14 | 14 | 29 | 16 | 
+| **Total** | 3	| 3	| 4 | 5 | 10 | 25 |	41 | 55 | 69 | 98 | 114 |
 
 - **Dr. K.V. Lakshmy**
-![](https://img.shields.io/badge/Cites/year-13.82-blue)
-![](https://img.shields.io/badge/Cites/paper-6.91-blue)
+![](https://img.shields.io/badge/Cites/year-14.09-blue)
+![](https://img.shields.io/badge/Cites/paper-7.05-blue)
 ![](https://img.shields.io/badge/Authors/paper-2.91-blue)
 ![](https://img.shields.io/badge/g_index-12-green)
 ![](https://img.shields.io/badge/hA_index-4-green)
@@ -71,8 +71,8 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 
 | Year | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New** | 5 |	6 |	6 |	6 |	7 | 42 | 51 | 29 |
-| **Total** | 5 | 11 | 17 | 23 | 30 | 72 | 123 | 152     |
+| **New** | 5 |	6 |	6 |	6 |	7 | 42 | 51 | 32 |
+| **Total** | 5 | 11 | 17 | 23 | 30 | 72 | 123 | 155 |
 
 - **Mr. Ashok Kumar Mohan**
 ![](https://img.shields.io/badge/Cites/year-3.50-blue)
@@ -114,8 +114,8 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 | **Total** | 1 | 2	| 7 | 28 | 47 |
 
 - **Dr. V. Sangeetha**
-![](https://img.shields.io/badge/Cites/year-13.63-blue)
-![](https://img.shields.io/badge/Cites/paper-5.19-blue)
+![](https://img.shields.io/badge/Cites/year-13.88-blue)
+![](https://img.shields.io/badge/Cites/paper-5.29-blue)
 ![](https://img.shields.io/badge/Authors/paper-4.76-blue)
 ![](https://img.shields.io/badge/g_index-9-green)
 ![](https://img.shields.io/badge/hA_index-4-green)
@@ -123,8 +123,8 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 
 | Year | 2016 | 2017 | 2018 | 2019 | 2020 | 2021 | 2022 |
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| New	| 4	| 4 | 10 | 10 | 13 | 35 | 33 |
-| Total	| 4	| 8 | 18 | 28 | 41 | 76 | 109 |
+| New	| 4	| 4 | 10 | 10 | 13 | 35 | 35 |
+| Total	| 4	| 8 | 18 | 28 | 41 | 76 | 111 |
 
 - **Ms. K.N. Ambili**
 ![](https://img.shields.io/badge/Cites/year-6.40-blue)
@@ -139,4 +139,4 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 | **New** | 4 | 6 | 6 | 10 | 6 |
 | **Total**	| 4	| 10 | 16 | 26 | 32 |
 
-##### Last Updated: 05-July-2022
+##### Last Updated: 16-July-2022
