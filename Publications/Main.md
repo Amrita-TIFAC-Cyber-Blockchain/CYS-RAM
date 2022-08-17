@@ -7,7 +7,7 @@
 
 - **Publications - Category Stats**
   - ![](https://img.shields.io/badge/Patent-2-brightgreen)
-  - ![](https://img.shields.io/badge/Scopus_Conference-159-brightgreen) ![](https://img.shields.io/badge/Scopus_Journal-48-brightgreen) 
+  - ![](https://img.shields.io/badge/Scopus_Conference-160-brightgreen) ![](https://img.shields.io/badge/Scopus_Journal-48-brightgreen) 
   - ![](https://img.shields.io/badge/Non_Scopus_Conference-11-orange) ![](https://img.shields.io/badge/Non_Scopus_Journal-24-orange) 
 
 - **Publications - Area Stats**
@@ -23,12 +23,11 @@
 
 - **Most Cited Papers - Top 5**
   
-    - ![](https://img.shields.io/badge/Citations-432-blue) ![](https://img.shields.io/badge/Year-2017-brightgreen) ![](https://img.shields.io/badge/-MTech-blue) ![](https://img.shields.io/badge/Domain-Blockchain_Technology-purple) [Sankar, L. S., Sindhu, M., & Sethumadhavan, M.]() (2017). **Survey of consensus protocols on blockchain applications.** In 2017 4th _international conference on advanced computing and communication systems (ICACCS)_ pp. 1-5. IEEE.
-    - ![](https://img.shields.io/badge/Citations-80-blue) ![](https://img.shields.io/badge/Year-2018-brightgreen) ![](https://img.shields.io/badge/-MTech-blue) ![](https://img.shields.io/badge/Domain-Blockchain_Technology-purple) [Sajana, P., Sindhu, M., & Sethumadhavan, M.]() (2018). **On blockchain applications: hyperledger fabric and ethereum.** _International Journal of Pure and Applied Mathematics_, 118(18), 2965-2970.
+    - ![](https://img.shields.io/badge/Citations-442-blue) ![](https://img.shields.io/badge/Year-2017-brightgreen) ![](https://img.shields.io/badge/-MTech-blue) ![](https://img.shields.io/badge/Domain-Blockchain_Technology-purple) [Sankar, L. S., Sindhu, M., & Sethumadhavan, M.]() (2017). **Survey of consensus protocols on blockchain applications.** In 2017 4th _international conference on advanced computing and communication systems (ICACCS)_ pp. 1-5. IEEE.
+    - ![](https://img.shields.io/badge/Citations-82-blue) ![](https://img.shields.io/badge/Year-2018-brightgreen) ![](https://img.shields.io/badge/-MTech-blue) ![](https://img.shields.io/badge/Domain-Blockchain_Technology-purple) [Sajana, P., Sindhu, M., & Sethumadhavan, M.]() (2018). **On blockchain applications: hyperledger fabric and ethereum.** _International Journal of Pure and Applied Mathematics_, 118(18), 2965-2970.
     - ![](https://img.shields.io/badge/Citations-60-blue) ![](https://img.shields.io/badge/Year-2010-brightgreen) ![](https://img.shields.io/badge/-MTech-blue) ![](https://img.shields.io/badge/Domain-Stego-purple) [Sherly, A. P., & Amritha, P. P.]() (2010). **A compressed video steganography using TPVD.** _International Journal of Database Management Systems (IJDMS)_, 2(3), 67-80.
-     - ![](https://img.shields.io/badge/Citations-48-blue) ![](https://img.shields.io/badge/Year-2018-brightgreen) ![](https://img.shields.io/badge/-MTech-blue) ![](https://img.shields.io/badge/Domain-Blockchain_Technology-purple) [Rajalakshmi, A., Lakshmy, K., Sindhu, M., & Amritha, P.]() (2018). **A blockchain and ipfs based framework for secure research record keeping.** _International Journal of Pure and Applied Mathematics_, 119(15), 1437-1442.
-    - ![](https://img.shields.io/badge/Citations-46-blue) ![](https://img.shields.io/badge/Year-2016-brightgreen) ![](https://img.shields.io/badge/-MTech-blue) ![](https://img.shields.io/badge/Domain-Crypto-purple) [Mukundan, P. M., Manayankath, S., Srinivasan, C., & Sethumadhavan, M.]() (2016). **Hash-One: a lightweight cryptographic hash function.** _IET Information Security_, 10(5), 225-231.
-
+     - ![](https://img.shields.io/badge/Citations-50-blue) ![](https://img.shields.io/badge/Year-2016-brightgreen) ![](https://img.shields.io/badge/-MTech-blue) ![](https://img.shields.io/badge/Domain-Crypto-purple) [Mukundan, P. M., Manayankath, S., Srinivasan, C., & Sethumadhavan, M.]() (2016). **Hash-One: a lightweight cryptographic hash function.** _IET Information Security_, 10(5), 225-231.
+     - ![](https://img.shields.io/badge/Citations-49-blue) ![](https://img.shields.io/badge/Year-2018-brightgreen) ![](https://img.shields.io/badge/-MTech-blue) ![](https://img.shields.io/badge/Domain-Blockchain_Technology-purple) [Rajalakshmi, A., Lakshmy, K., Sindhu, M., & Amritha, P.]() (2018). **A blockchain and ipfs based framework for secure research record keeping.** _International Journal of Pure and Applied Mathematics_, 119(15), 1437-1442.
 
 ## Year-Wise
 
@@ -45,4 +44,4 @@
 | [2008](2008.md) | [2018](2018.md) | 2028            |
 | [2009](2009.md) | [2019](2019.md) | 2029            |
 
-##### Last Updated: 19-July-2022
+##### Last Updated: 17-August-2022
