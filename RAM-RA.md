@@ -40,4 +40,4 @@ This page provides Research Analysis and Metrics of Research Scholars.
 | <img src="Assets/ResearchScholars/BB.jpg" alt="Balaganesh Bojarajulu" width="120"/> <br/> Mr. Balaganesh Bojarajulu | [0000-0003-2824-9919](https://orcid.org/0000-0003-2824-9919) | [0](https://scholar.google.com/citations?user=&hl=en) | 0 | 
 | <img src="Assets/ResearchScholars/PR.png" alt="Prasanna R" width="120"/> <br/> Mr. Prasanna R | - | [0](https://scholar.google.com/citations?user=&hl=en) | 0 | 
 
-##### Last Updated: 12-September-2022
+##### Last Updated: 23-September-2022
