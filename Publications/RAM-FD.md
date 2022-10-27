@@ -22,7 +22,7 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 | **New**	 | 6  | 9  | 12 | 30 | 45  | 90  | 144 | 171 | 265 | 172  |
 | **Total**  | 24 | 33 | 45 | 75 | 120 | 210 | 354 | 525 | 790 | 962 |
 
-- **Dr. C. Srinivasan**
+- **Dr. Chungath Srinivasan**
 ![](https://img.shields.io/badge/Cites/year-7.86-blue)
 ![](https://img.shields.io/badge/Cites/paper-5.24-blue)
 ![](https://img.shields.io/badge/Authors/paper-3.10-blue)
