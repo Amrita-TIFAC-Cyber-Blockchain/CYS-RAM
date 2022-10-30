@@ -1,6 +1,6 @@
 // Author : Ramaguru Radhakrishnan
 // Created Date : 11-Nov-2021
-// Updated Date : 06-Jan-2022
+// Updated Date : 30-Oct-2022
 // Description: To get the Google Scholar Publications and Citation Stats
 
 const SerpApi = require('google-search-results-nodejs');
@@ -125,7 +125,7 @@ search.json(faculty_3, callback);
 search.json(faculty_4, callback);
 search.json(faculty_5, callback);
 search.json(faculty_6, callback);
-//search.json(faculty_7, callback);
+search.json(faculty_7, callback);
 search.json(faculty_9, callback);
 search.json(faculty_10, callback);
 
@@ -133,10 +133,14 @@ search.json(faculty_10, callback);
 //console.log("******************************************");
 //console.log("\t\t RESEARCH SCHOLAR \t\t");
 search.json(researh_scholar_1, callback);
-//search.json(researh_scholar_2, callback);
-//search.json(researh_scholar_3, callback);
+search.json(researh_scholar_2, callback);
+search.json(researh_scholar_3, callback);
 //search.json(researh_scholar_4, callback);
 //search.json(researh_scholar_5, callback);
-//search.json(researh_scholar_6, callback);
+search.json(researh_scholar_6, callback);
+//search.json(researh_scholar_7, callback);
+//search.json(researh_scholar_8, callback);
+//search.json(researh_scholar_9, callback);
+//search.json(researh_scholar_10, callback);
 
 console.log("\n");
