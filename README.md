@@ -9,16 +9,21 @@
 **Research Analysis and Metrics** provides detailed overview and various metrics of Research Activities and Publications by **TIFAC-CORE in Cyber Security**, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Coimbatore, India.
 
 - **Research Areas**
+
     - ![](https://img.shields.io/badge/-Android_Security-blue) 
     - ![](https://img.shields.io/badge/-Blockchain_Technology-blue) ![](https://img.shields.io/badge/-Cryptocurrency-blue) ![](https://img.shields.io/badge/-Metaverse-blue)
     - ![](https://img.shields.io/badge/-Cryptography-blue) ![](https://img.shields.io/badge/-Cryptanalysis-blue) 
-    - ![](https://img.shields.io/badge/-Steganography-blue) ![](https://img.shields.io/badge/-Steganalysis-blue) ![](https://img.shields.io/badge/-Visual_Cryptography-blue) ![](https://img.shields.io/badge/-Software_Watermarking-blue) 
-    - ![](https://img.shields.io/badge/-Cyber_Forensics-blue)  
+    - ![](https://img.shields.io/badge/-Cyber_Psychology-blue) 
+    - ![](https://img.shields.io/badge/-Cyber_Forensics-blue) ![](https://img.shields.io/badge/-Blockchain_Forensics-blue) ![](https://img.shields.io/badge/-Cryptocurrency_Forensics-blue)
+    - ![](https://img.shields.io/badge/-Dark_Web-blue) 
     - ![](https://img.shields.io/badge/-Formal_Methods-blue)  
+    - ![](https://img.shields.io/badge/-IoT-blue) 
     - ![](https://img.shields.io/badge/-Machine_Learning-blue) ![](https://img.shields.io/badge/-Malware-blue) ![](https://img.shields.io/badge/-IDS-blue) ![](https://img.shields.io/badge/-IPS-blue)
     - ![](https://img.shields.io/badge/-Network_Security-blue) ![](https://img.shields.io/badge/-Wireless-blue)  
     - ![](https://img.shields.io/badge/-Secure_Coding-blue) 
+    - ![](https://img.shields.io/badge/-Steganography-blue) ![](https://img.shields.io/badge/-Steganalysis-blue) ![](https://img.shields.io/badge/-Visual_Cryptography-blue) ![](https://img.shields.io/badge/-Software_Watermarking-blue) 
     - ![](https://img.shields.io/badge/-Vulnerability_Assessment-blue)
+    - ![](https://img.shields.io/badge/-Web_Security-blue) 
 
 ## Pages 
   
