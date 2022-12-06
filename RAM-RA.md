@@ -42,4 +42,4 @@ This page provides Research Analysis and Metrics of Research Scholars.
 | <img src="Assets/ResearchScholars/ML.png" alt="Meena Lakshmi M" width="120"/> <br/> Ms. Meena Lakshmi M | - | [0](https://scholar.google.com/citations?user=&hl=en) | 0 | 
 | <img src="Assets/ResearchScholars/GAKS.png" alt="Gabriel Anand K S" width="120"/> <br/> Mr. Gabriel Anand K S | - | [0](https://scholar.google.com/citations?user=&hl=en) | 0 | 
 
-##### Last Updated: 04-December-2022
+##### Last Updated: 06-December-2022
