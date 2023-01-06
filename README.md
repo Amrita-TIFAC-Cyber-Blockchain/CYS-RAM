@@ -37,3 +37,8 @@
 ## Credits
 Created and Maintained by **Ramaguru Radhakrishnan**, Assistant Professor, Cyber Security, Amrita Vishwa Vidyapeetham.
 <h6> Any suggestions and improvements, please feel free to share. </h6>
+
+
+<center>
+<a href="//www.dmca.com/Protection/Status.aspx?ID=965c50dc-053f-4726-979f-a1f09dcb2fda" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120j.png?ID=965c50dc-053f-4726-979f-a1f09dcb2fda"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+</center>
