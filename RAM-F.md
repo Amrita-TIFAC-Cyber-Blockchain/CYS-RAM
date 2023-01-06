@@ -32,3 +32,8 @@ This page provides Research Analysis and Metrics of Faculties.
 | <img src="Assets/Faculties/SV.jpg" alt="Sangeetha V" width="120"/> <br/> Dr. V. Sangeetha | [0000-0002-9568-5000](https://orcid.org/0000-0002-9568-5000) | [21](https://scholar.google.co.in/citations?user=jaxJad8AAAAJ&hl=en) <br/> ![](https://img.shields.io/badge/Amrita-2-violet) <br/>  ![](https://img.shields.io/badge/Citations-135-blue)  <br/>  ![](https://img.shields.io/badge/h_index-7-green) <br/> ![](https://img.shields.io/badge/i10_index-6-lightgreen) | [18](https://www.scopus.com/authid/detail.uri?authorId=57210551454) <br/> ![](https://img.shields.io/badge/Amrita-1-violet) <br/> ![](https://img.shields.io/badge/Citations-99-blue) <br/> ![](https://img.shields.io/badge/h_index-7-green) <br/> ![](https://img.shields.io/badge/h_index-6-brightgreen) |
 
 ##### Last Updated: 01-Jan-2023
+
+
+<center>
+<a href="//www.dmca.com/Protection/Status.aspx?ID=965c50dc-053f-4726-979f-a1f09dcb2fda" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120j.png?ID=965c50dc-053f-4726-979f-a1f09dcb2fda"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+</center>
