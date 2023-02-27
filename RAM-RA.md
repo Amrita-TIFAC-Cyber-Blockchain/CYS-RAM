@@ -13,7 +13,7 @@ This page provides Research Analysis and Metrics of Research Scholars.
 
 | Name | ORCiD | Google Scholar Publications (Overall) <br/> Amrita Publications  <br/> Citations <br/> h-index <br/>i10-index | Scopus Publications <br/> Amrita Publications <br/> Citations <br/> h-index <br/> h-index (excluding self) | 
 |:-----:|:-------------------:|:-------------------------------------------------------------------------------:|:-----------------------------------------------------------:|
-| <img src="Assets/ResearchScholars/HR.jpg" alt="Harish R" width="120"/> <br/> Mr. Harish R | [0000-0003-0722-6953](https://orcid.org/0000-0003-0722-6953) | [3](https://scholar.google.co.in/citations?user=weIsDiIAAAAJ&hl=en) <br/> ![](https://img.shields.io/badge/Amrita-3-violet)  <br/> ![](https://img.shields.io/badge/Citations-4-blue)  <br/>  ![](https://img.shields.io/badge/h_index-1-green) <br/> ![](https://img.shields.io/badge/i10_index-0-lightgreen) | [3](https://www.scopus.com/authid/detail.uri?authorId=57222348310) <br/> ![](https://img.shields.io/badge/Amrita-3-violet) <br/> ![](https://img.shields.io/badge/Citations-1-blue) <br/> ![](https://img.shields.io/badge/h_index-1-green) <br/> ![](https://img.shields.io/badge/h_index-1-brightgreen) | 
+| <img src="Assets/ResearchScholars/HR.jpg" alt="Harish R" width="120"/> <br/> Mr. Harish R | [0000-0003-0722-6953](https://orcid.org/0000-0003-0722-6953) | [3](https://scholar.google.co.in/citations?user=weIsDiIAAAAJ&hl=en) <br/> ![](https://img.shields.io/badge/Amrita-3-violet)  <br/> ![](https://img.shields.io/badge/Citations-5-blue)  <br/>  ![](https://img.shields.io/badge/h_index-2-green) <br/> ![](https://img.shields.io/badge/i10_index-0-lightgreen) | [3](https://www.scopus.com/authid/detail.uri?authorId=57222348310) <br/> ![](https://img.shields.io/badge/Amrita-3-violet) <br/> ![](https://img.shields.io/badge/Citations-1-blue) <br/> ![](https://img.shields.io/badge/h_index-1-green) <br/> ![](https://img.shields.io/badge/h_index-1-brightgreen) | 
 
 ### Area of Cyber Security
 
@@ -43,4 +43,4 @@ This page provides Research Analysis and Metrics of Research Scholars.
 | <img src="Assets/ResearchScholars/GAKS.png" alt="Gabriel Anand K S" width="120"/> <br/> Mr. Gabriel Anand K S | - | [0](https://scholar.google.com/citations?user=&hl=en) | 0 | 
 | <img src="Assets/ResearchScholars/AD.png" alt="Aljoscha Dietrich" width="120"/> <br/> Mr. Aljoscha Dietrich | - | [0](https://scholar.google.com/citations?user=&hl=en) | [10](https://www.scopus.com/authid/detail.uri?authorId=57199179227) <br/> ![](https://img.shields.io/badge/Amrita-0-violet) <br/> ![](https://img.shields.io/badge/Citations-1-blue) <br/> ![](https://img.shields.io/badge/h_index-1-green) <br/> ![](https://img.shields.io/badge/h_index-1-brightgreen) | 
 
-##### Last Updated: 14-Feb-2023
+##### Last Updated: 27-Feb-2023
