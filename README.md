@@ -40,8 +40,11 @@ Created and Maintained by **Ramaguru Radhakrishnan**, Assistant Professor, Cyber
 
 
 <center>
-<a href="//www.dmca.com/Protection/Status.aspx?ID=965c50dc-053f-4726-979f-a1f09dcb2fda" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120j.png?ID=965c50dc-053f-4726-979f-a1f09dcb2fda"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
-</center>
+<a href="//www.dmca.com/Protection/Status.aspx?ID=965c50dc-053f-4726-979f-a1f09dcb2fda" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://images.dmca.com/Badges/dmca_protected_sml_120j.png?ID=965c50dc-053f-4726-979f-a1f09dcb2fda"  alt="DMCA.com Protection Status" /></a>  
+<script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+
 
 <script src="https://climateclock.world/widget-v2.js" async></script>
 <climate-clock />
+
+</center>
