@@ -43,4 +43,4 @@ This page provides Research Analysis and Metrics of Research Scholars.
 | <img src="Assets/ResearchScholars/GAKS.png" alt="Gabriel Anand K S" width="120"/> <br/> Mr. Gabriel Anand K S | - | [0](https://scholar.google.com/citations?user=&hl=en) | 0 | 
 | <img src="Assets/ResearchScholars/AD.png" alt="Aljoscha Dietrich" width="120"/> <br/> Mr. Aljoscha Dietrich | - | [0](https://scholar.google.com/citations?user=&hl=en) | [10](https://www.scopus.com/authid/detail.uri?authorId=57199179227) <br/> ![](https://img.shields.io/badge/Amrita-0-violet) <br/> ![](https://img.shields.io/badge/Citations-1-blue) <br/> ![](https://img.shields.io/badge/h_index-1-green) <br/> ![](https://img.shields.io/badge/h_index-1-brightgreen) | 
 
-##### Last Updated: 31-Mar-2023
+##### Last Updated: 26-Apr-2023
