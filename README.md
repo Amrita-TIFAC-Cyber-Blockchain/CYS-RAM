@@ -6,7 +6,7 @@
 
 # Research Analysis and Metrics (RAM) ![](https://img.shields.io/badge/-Live-brightgreen)
 
-**Research Analysis and Metrics** provides detailed overview and various metrics of Research Activities and Publications by **TIFAC-CORE in Cyber Security**, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Coimbatore, India.
+**Research Analysis and Metrics** provides a detailed overview and various Research Activities and Publications metrics by **TIFAC-CORE in Cyber Security**, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Coimbatore, India.
 
 - **Research Areas**
 
