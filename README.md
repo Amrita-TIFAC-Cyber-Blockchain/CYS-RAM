@@ -35,7 +35,7 @@
 
 
 ## Credits
-Created and Maintained by **Ramaguru Radhakrishnan**, Assistant Professor, Cyber Security, Amrita Vishwa Vidyapeetham.
+Created and Maintained by **Ramaguru Radhakrishnan**, Assistant Professor (Senior Grade), Cyber Security, Amrita Vishwa Vidyapeetham.
 <h6> Any suggestions and improvements, please feel free to share. </h6>
 
 
