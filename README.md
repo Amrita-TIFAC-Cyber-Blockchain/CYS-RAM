@@ -4,7 +4,12 @@
     <img src="https://amrita-tifac-cyber-blockchain.github.io/Amrita-TIFAC-Cyber-Blockchain/TIFAC-CORE_in_Cyber_Security.png" alt ="TIFAC-CYBER" width="180" />
 </p>
 
-# Research Analysis and Metrics (RAM) ![](https://img.shields.io/badge/-Live-brightgreen)
+# CYS - Research Analysis and Metrics (RAM) ![](https://img.shields.io/badge/-Live-brightgreen)
+
+<p align="center"> 
+    <img src="Assets/CYS-RAM.png" alt ="CYS-RAM" width="200" />
+</p>
+
 
 **Research Analysis and Metrics** provides a detailed overview and various Research Activities and Publications metrics by **TIFAC-CORE in Cyber Security**, Amrita School of Computing, Amrita Vishwa Vidyapeetham, Coimbatore, India.
 
