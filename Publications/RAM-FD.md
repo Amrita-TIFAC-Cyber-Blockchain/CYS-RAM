@@ -10,146 +10,146 @@ This page provides Research Analysis and Metrics of Faculties - Detailed for Int
 ### Faculties
 
 - **Prof. M Sethumadhavan**
-![](https://img.shields.io/badge/Cites/year-71.65-blue)
-![](https://img.shields.io/badge/Cites/paper-14.85-blue)
-![](https://img.shields.io/badge/Authors/paper-3.00-blue)
-![](https://img.shields.io/badge/g_index-33-green)
-![](https://img.shields.io/badge/hA_index-6-green)
+![](https://img.shields.io/badge/Cites/year-73.76-blue)
+![](https://img.shields.io/badge/Cites/paper-15.11-blue)
+![](https://img.shields.io/badge/Authors/paper-3.01-blue)
+![](https://img.shields.io/badge/g_index-34-green)
+![](https://img.shields.io/badge/hA_index-7-green)
 ![](https://img.shields.io/badge/hI,_annual_index-0.47-purple)
 
-| Year | 2013	| 2014 | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New**	 | 7  | 9  | 12 | 29 | 44  | 84  | 148 | 185 | 266 | 245 | 174 |
-| **Total**  | 22 | 31 | 43 | 72 | 116 | 200 | 348 | 533 | 799 | 1044 | 1218 |
+| Year | 2013	| 2014 | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| **New**	 | 7  | 9  | 12 | 29 | 44  | 84  | 147 | 186 | 264 | 244 | 208 |
+| **Total**  | 27 | 36 | 48 | 77 | 121 | 205 | 352 | 538 | 802 | 1046 | 1254 |
 
 - **Dr. Chungath Srinivasan**
-![](https://img.shields.io/badge/Cites/year-14.53-blue)
-![](https://img.shields.io/badge/Cites/paper-8.72-blue)
-![](https://img.shields.io/badge/Authors/paper-3.08-blue)
+![](https://img.shields.io/badge/Cites/year-15.47-blue)
+![](https://img.shields.io/badge/Cites/paper-8.29-blue)
+![](https://img.shields.io/badge/Authors/paper-3.14-blue)
 ![](https://img.shields.io/badge/g_index-14-green)
-![](https://img.shields.io/badge/hA_index-3-green)
-![](https://img.shields.io/badge/hI,_annual_index-0.27-purple)
+![](https://img.shields.io/badge/hA_index-4-green)
+![](https://img.shields.io/badge/hI,_annual_index-0.33-purple)
 
-| Year | 2011 | 2012 | 2013	| 2014 | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New**	| 1 | 1 | 1 | 2 | 2 | 7 | 14 |	14 | 13	| 18 | 40 | 60 | 45 |
-| **Total** | 1	| 2 | 3 | 5 | 7	| 14 | 28 | 42 | 55	| 73 | 113 | 173 | 218 |
+| Year | 2011 | 2012 | 2013	| 2014 | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| **New**	| 1 | 1 | 1 | 2 | 2 | 7 | 15 | 13 | 13	| 18 | 40 | 60 | 58 |
+| **Total** | 2	| 3 | 4 | 6 | 8	| 15 | 30 | 43 | 56	| 74 | 114 | 174 | 232 |
 
 - **Dr. P. P. Amritha**
-![](https://img.shields.io/badge/Cites/year-22.29-blue)
-![](https://img.shields.io/badge/Cites/paper-6.64-blue)
+![](https://img.shields.io/badge/Cites/year-23.43-blue)
+![](https://img.shields.io/badge/Cites/paper-6.98-blue)
 ![](https://img.shields.io/badge/Authors/paper-2.91-blue)
-![](https://img.shields.io/badge/g_index-15-green)
-![](https://img.shields.io/badge/hA_index-4-green)
+![](https://img.shields.io/badge/g_index-16-green)
+![](https://img.shields.io/badge/hA_index-5-green)
 ![](https://img.shields.io/badge/hI,_annual_index-0.29-purple)
 
-| Year | 2011 | 2012 | 2013	| 2014 | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New** | 1 |	2 |	6 |	8 |	11 | 16 | 18 | 19 | 21 | 36 | 58 | 59 | 53 | 
-| **Total** | 5	| 7 | 13 | 21 |	32 | 48 | 66 | 85 | 106 | 142 | 200 | 259 | 312 |
+| Year | 2011 | 2012 | 2013	| 2014 | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| **New** | 1 |	2 |	6 |	8 |	11 | 16 | 18 | 19 | 21 | 37 | 58 | 58 | 68 | 
+| **Total** | 6	| 8 | 14 | 22 |	33 | 49 | 67 | 86 | 107 | 144 | 202 | 260 | 328 |
 
 - **Dr. K. Praveen**
-![](https://img.shields.io/badge/Cites/year-14.67-blue)
-![](https://img.shields.io/badge/Cites/paper-4.29-blue)
-![](https://img.shields.io/badge/Authors/paper-2.78-blue)
-![](https://img.shields.io/badge/g_index-10-green)
+![](https://img.shields.io/badge/Cites/year-15.08-blue)
+![](https://img.shields.io/badge/Cites/paper-4.31-blue)
+![](https://img.shields.io/badge/Authors/paper-2.86-blue)
+![](https://img.shields.io/badge/g_index-11-green)
 ![](https://img.shields.io/badge/hA_index-3-green)
 ![](https://img.shields.io/badge/hI,_annual_index-0.33-purple)
 
-| Year | 2012 | 2013	| 2014 | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New** |	1 |	0 |	1 |	1 |	5 | 15 | 16 | 12 | 18 | 33 | 32 | 41 |
-| **Total** | 2	| 2	| 3 | 4 | 9 | 24 |	40 | 52 | 70 | 103 | 135 | 176 |
+| Year | 2012 | 2013	| 2014 | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| **New** |	1 |	0 |	1 |	1 |	5 | 15 | 16 | 12 | 18 | 33 | 31 | 47 |
+| **Total** | 2	| 2	| 3 | 4 | 9 | 24 |	40 | 52 | 70 | 103 | 134 | 181 |
 
 - **Dr. K.V. Lakshmy**
-![](https://img.shields.io/badge/Cites/year-20.00-blue)
-![](https://img.shields.io/badge/Cites/paper-9.23-blue)
+![](https://img.shields.io/badge/Cites/year-21.00-blue)
+![](https://img.shields.io/badge/Cites/paper-9.00-blue)
 ![](https://img.shields.io/badge/Authors/paper-3.00-blue)
 ![](https://img.shields.io/badge/g_index-15-green)
 ![](https://img.shields.io/badge/hA_index-5-green)
 ![](https://img.shields.io/badge/hI,_annual_index-0.42-purple)
 
-| Year | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New** | 5 |	6 |	5 |	6 |	8 | 42 | 51 | 72 | 44 |
-| **Total** | 6 | 12 | 17 | 23 | 31 | 73 | 124 | 196 | 240 |
+| Year | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| **New** | 5 |	6 |	5 |	6 |	8 | 43 | 51 | 72 | 54 |
+| **Total** | 7 | 13 | 18 | 24 | 32 | 75 | 126 | 198 | 252 |
 
 - **Mr. Saurabh Shrivastava**
-![](https://img.shields.io/badge/Cites/year-1.00-blue)
-![](https://img.shields.io/badge/Cites/paper-0.67-blue) 
+![](https://img.shields.io/badge/Cites/year-1.50-blue)
+![](https://img.shields.io/badge/Cites/paper-1.00-blue) 
 ![](https://img.shields.io/badge/Authors/paper-2.67-blue)
 ![](https://img.shields.io/badge/g_index-1-green)
 ![](https://img.shields.io/badge/hA_index-1-green)
 ![](https://img.shields.io/badge/hI,_annual_index-0.50-purple)
 
-| Year | 2023 | 
-|:----:|:----:|
-| **New** | 0 |
-| **Total** | 0 |
+| Year | 2022 | 2023 | 2024 |
+|:----:|:----:|:----:|:----:|
+| **New** | 2 | 1 |
+| **Total** | 2 | 3 |
 
 - **Mr. R. Ramaguru**
-![](https://img.shields.io/badge/Cites/year-7.67-blue)
-![](https://img.shields.io/badge/Cites/paper-6.57-blue)
+![](https://img.shields.io/badge/Cites/year-8.58-blue)
+![](https://img.shields.io/badge/Cites/paper-7.36-blue)
 ![](https://img.shields.io/badge/Authors/paper-2.86-blue)
-![](https://img.shields.io/badge/g_index-9-green)
-![](https://img.shields.io/badge/hA_index-4-green)
-![](https://img.shields.io/badge/hI,_annual_index-0.25-purple)
+![](https://img.shields.io/badge/g_index-10-green)
+![](https://img.shields.io/badge/hA_index-5-green)
+![](https://img.shields.io/badge/hI,_annual_index-0.33-purple)
 
-| Year |  2019 | 2020 | 2021 | 2022 | 2023 |
-|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New** | 1 | 6 | 19 | 36 | 30 |
-| **Total** | 1 | 7 | 26 | 62 | 92 |
+| Year |  2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| **New** | 1 | 6 | 19 | 36 | 41 |
+| **Total** | 1 | 7 | 26 | 62 | 103 |
 
 - **Ms. K.N. Ambili**
-![](https://img.shields.io/badge/Cites/year-10.33-blue)
-![](https://img.shields.io/badge/Cites/paper-6.20-blue)
+![](https://img.shields.io/badge/Cites/year-10.83-blue)
+![](https://img.shields.io/badge/Cites/paper-6.50-blue)
 ![](https://img.shields.io/badge/Authors/paper-2.70-blue)
-![](https://img.shields.io/badge/g_index-7-green)
+![](https://img.shields.io/badge/g_index-8-green)
 ![](https://img.shields.io/badge/hA_index-3-green)
 ![](https://img.shields.io/badge/hI,_annual_index-0.50-purple)
 
-| Year | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New** | 4 | 6 | 7 | 13 | 18 | 14 |
-| **Total**	| 4	| 10 | 17 | 30 | 48 | 62 |
+| Year | 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| **New** | 4 | 6 | 7 | 13 | 17 | 18 |
+| **Total**	| 4	| 10 | 17 | 30 | 47 | 65 |
 
 - **Mr. Anand R Nair**
-![](https://img.shields.io/badge/Cites/year-3.00-blue)
-![](https://img.shields.io/badge/Cites/paper-3.00-blue)
+![](https://img.shields.io/badge/Cites/year-4.00-blue)
+![](https://img.shields.io/badge/Cites/paper-4.00-blue)
 ![](https://img.shields.io/badge/Authors/paper-3.00-blue)
 ![](https://img.shields.io/badge/g_index-1-green)
 ![](https://img.shields.io/badge/hA_index-1-green)
 ![](https://img.shields.io/badge/hI,_annual_index-1.00-purple)
 
-| Year | 2023 |
-|:----:|:----:|
+| Year | 2023 | 2024 |
+|:----:|:----:|:----:|
 | **New** | 0 |
 | **Total**	| 0 | 
 
 - **Dr. V. Sujitha**
-![](https://img.shields.io/badge/Cites/year-3.83-blue)
-![](https://img.shields.io/badge/Cites/paper-1.77-blue)
-![](https://img.shields.io/badge/Authors/paper-2.42-blue)
-![](https://img.shields.io/badge/g_index-6-green)
+![](https://img.shields.io/badge/Cites/year-4.58-blue)
+![](https://img.shields.io/badge/Cites/paper-2.04-blue)
+![](https://img.shields.io/badge/Authors/paper-2.48-blue)
+![](https://img.shields.io/badge/g_index-7-green)
 ![](https://img.shields.io/badge/hA_index-2-green)
 ![](https://img.shields.io/badge/hI,_annual_index-0.25-purple)
 
-| Year |  2019 | 2020 | 2021 | 2022 | 2023 |
-|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New** | 2 | 4 | 9 | 14 | 17 |
-| **Total** | 2 | 6 | 15 | 29 | 46 |
+| Year |  2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| **New** | 2 | 4 | 9 | 14 | 26 |
+| **Total** | 2 | 6 | 15 | 29 | 55 |
 
 - **Ms. Hemalatha P**
-![](https://img.shields.io/badge/Cites/year-15.70-blue)
-![](https://img.shields.io/badge/Cites/paper-5.81-blue)
-![](https://img.shields.io/badge/Authors/paper-2.44-blue)
+![](https://img.shields.io/badge/Cites/year-16.30-blue)
+![](https://img.shields.io/badge/Cites/paper-5.43-blue)
+![](https://img.shields.io/badge/Authors/paper-2.50-blue)
 ![](https://img.shields.io/badge/g_index-12-green)
 ![](https://img.shields.io/badge/hA_index-5-green)
 ![](https://img.shields.io/badge/hI,_annual_index-0.40-purple)
 
-| Year | 2014 | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 | 2023 |
-|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| **New**	 | 1 | 2 | 3 | 2 | 6 | 3 | 10 | 19 | 42 | 68 |
-| **Total**  | 2 | 4 | 7 | 9 | 15 | 18 | 28 | 47 | 89 | 157 |
-
-##### Last Updated: 01-Nov-2023
+| Year | 2014 | 2015	| 2016 | 2017	| 2018 | 2019 | 2020 | 2021 | 2022 | 2023 | 2024 |
+|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
+| **New**	 | 1 | 2 | 3 | 2 | 6 | 3 | 10 | 19 | 45 | 71 | | 
+| **Total**  | 2 | 4 | 7 | 9 | 15 | 18 | 28 | 47 | 92 | 163 | |
+ 
+##### Last Updated: 27-Dec-2023
