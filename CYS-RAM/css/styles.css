@@ -1,60 +1,6 @@
- .whole_body1{
-    margin-top: 15%;
-    margin-left: 20%;
-    margin-right: 20%;
-    margin-bottom: 15%;
-  }
-
-  .whole_body2{
-    margin-top: 2%;
-    margin-left: 5%;
-    margin-right: 5%;
-    margin-bottom: 5%;
-  }
-
-	.button {
-	  display: inline-block;
-	  border-radius: 4px;
-	  background-color: #B50346;
-	  border: none;
-	  color: #FFFFFF;
-	  text-align: center;
-	  font-size: 16px;
-	  padding: 10px;
-	  width: 100px;
-	  transition: all 0.5s;
-	  cursor: pointer;
-	  margin: 5px;
-	}
-
-	.button span {
-	  cursor: pointer;
-	  display: inline-block;
-	  position: relative;
-	  transition: 0.5s;
-	}
-
-	.button span:after {
-	  content: '\00bb';
-	  position: absolute;
-	  opacity: 0;
-	  top: 0;
-	  right: -20px;
-	  transition: 0.5s;
-	}
-
-	.button:hover span {
-	  padding-right: 25px;
-	}
-
-	.button:hover span:after {
-	  opacity: 1;
-	  right: 0;
-	}
-
-  .images{
+  .Home_images{
     position: relative;
-    background-image: url('../images/amrita_cbe.gif');
+    background-image: url('../images/Cbe.gif');
     background-repeat: no-repeat;
     background-position: 50% 7%;
     background-size: 40%;
@@ -62,74 +8,308 @@
     background-color: floralwhite;
   }
 
-  .left_block{
-    padding-top: 4%;
-    padding-right: 45%;
-  }
-  .right_block{
-    
-    padding-left: 60%;
+  .whole_body{
+    margin-top: 15%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-bottom: 15%;
   }
 
-  .container {
+  .Home_container{
     position: relative;
     text-align: center;
   }
-  
-  .left-image1{
-    width: 22%;
+
+  .Home_Amrita{
+    width: 19%;
     height: auto;
     position: absolute;
-    top: 0;
-    left: 0%;
+    top: 3%;
+    left: 3%;
   }
-  
-  .right-image1{
+
+  .Home_Tifac{
     width: 9%;
     height: auto;
     position: absolute;
-    top: 0;
+    top: 0%;
     right: 5%;
   }
 
-  .left-image2{
-    width: 18%;
-    height: auto;
-    position: absolute;
-    top: 0;
-    left: 0%;
-  }
-  
-  .right-image2{
-    width: 5%;
-    height: auto;
-    position: absolute;
-    top: 0;
-    right: 0%;
-  }
-  
   .center-text {
-    margin-top: 3%;
+    margin-top: 20%;
     position: relative;
     align-items: center;  
   }
 
   .text{
     text-align: center;
-    color: indigo;
   }
 
- .custom-line {  
-      border-color: #B50346;
-	  border-width: 1px;
-    }
-  
-  .footer{
-    position: fixed;
-    width: 100%;
-    top: 88%;
-    display: block;
-    background-color: black;
-    color: green;
-    text-align: center;
+  hr{
+    border: 0.05px solid maroon;
   }
+
+  .button {
+    display: inline-block;
+    border-radius: 4px;
+    background-color: #B50346;
+    border: none;
+    color: #FFFFFF;
+    text-align: center;
+    font-size: 16px;
+    padding: 10px;
+    width: 100px;
+    transition: all 0.5s;
+    cursor: pointer;
+    margin: 5px;
+  }
+
+  .button span {
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+
+  .button span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    top: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+
+  .button:hover span {
+    padding-right: 25px;
+  }
+
+  .button:hover span:after {
+    opacity: 1;
+    right: 0;
+  }
+
+  .ram_Amrita{
+    width: 15%;
+    height: auto;
+    position: absolute;
+    top: 0%;
+    left: 3%;
+  }
+
+  .ram_Tifac{
+    width: 5%;
+    height: auto;
+    position: absolute;
+    top: 0%;
+    right: 3%;
+  }
+
+  .cys-ram{
+    width: 10%;
+    height: auto;
+    position: absolute;
+    top: 0%;
+    left: 35%;
+  }
+
+  .ram_container1{
+    position: relative;
+    margin-top: 6%;
+    margin-left: 2%;
+    margin-right: 2%;
+    
+  }
+
+  .tabd{
+    background-color:rgb(172, 20, 20);
+    border-style: none;
+    height: 30px;
+    color: #f1f1f1;
+    font-weight: 200;
+    width: 100px;
+    border-radius: 3px;
+    
+  }
+  .tabd:hover{
+    background-color: rgb(212, 2, 2);
+  }
+  .ram_container2{
+    margin-top: 1%;
+    padding: 0.009%;
+    border-radius: 0.5%;
+    background-color:#ededeed5;
+    width: 100%;
+    height: 310px;
+    box-shadow: 2px 5px 5px rgba(0, 0, 0, 0.26);
+  }
+
+  .tab-content {
+    display: none;
+    padding-left: 0.5%;
+    
+  }
+
+  .active-tab {
+    display: block;
+  }
+
+  .search{
+    text-align: center;
+    font-size: small;
+    font-weight: 700;
+    color: ghostwhite;
+    width: 55px;
+    height: 30px;
+    border-style: none;
+    border-radius: 4px;
+    background-color:#ff9100e1;
+    
+  }
+  .search:hover{
+    background-color: #f08901e1;
+
+  }
+  
+  .styleip{
+    border-radius: 20px;
+    padding: 3px;
+    margin-right: 10px;
+    border-style: none;
+  }
+  .ram_images{
+    display: block;
+    position: relative;
+    background-image: url('../images/Cbe.gif');
+    background-repeat: no-repeat;
+    background-position: 50% 60%;
+    background-size: 45%;
+    height: 40vh;
+  }
+
+  .tag_container {
+    background-color: rgb(172, 20, 20);
+    border-style: none;
+    text-align: center;
+    height: 70px;
+    color: #f1f1f1;
+    font-weight: 500;
+    width: 200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+    margin: 35px;
+  }
+  
+
+.credits-container{
+  z-index: 1;
+  cursor: pointer;
+  background-color: maroon;
+  position: absolute;
+  top: 0;
+  right: 0;
+  height: 30px; 
+  width: 40px; 
+  display: flex;
+  padding-right: 10px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+  box-sizing: border-box;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+  
+}
+.b1, .b2, .b3 {
+  z-index: 2;
+  position: absolute;
+  width: 20px;
+  height: 2px;
+  background-color: white;
+  margin: 6px 0;
+  transition: 0.4s;
+  left: 10px;
+}
+
+.b1 { top: 0; right: 0; }
+.b2 { top: 8px; right: 0; }
+.b3 { top: 16px; right: 0; }
+.credits-container.active .dropdown-content {
+  display: block;
+}
+#dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+#dropdown-content p{
+  display: block;
+  font-size: 15px;
+  background-color: rgb(240, 144, 144);
+  color: black;
+  text-decoration: none;
+  padding: 10px;
+  text-align: center;
+}
+
+.dropdown-content.active {
+  display: block;
+  
+}
+.dropdown-content {
+  display: none;
+  background-color: maroon;
+  position: absolute;
+  margin-top: 10px; 
+  right: 0px;
+  height: 150px;
+  width: 300px;
+  border-radius: 5px;
+  
+}
+.change .b1 {
+  transform: translate(0, 8px) rotate(-45deg);
+}
+
+.change .b2 {opacity: 0;}
+
+.change .b3 {
+  transform: translate(0, -8px) rotate(45deg);
+}
+
+@media only screen and (max-width: 940px) {
+  .ram_images{
+    background-size: 400px;
+
+  }
+  
+}
+.About{
+  text-decoration: none;
+  color: white;
+}
+.about-container{
+  margin-top: 10%;
+  text-align: center;
+  
+}
+h2{
+  color: blue;
+}
+h2:hover{
+  color: blue;
+}
+
+footer{
+  position: sticky;
+  background-color: #ededeec0;
+  padding:2%;
+  text-align: center;
+ 
+}

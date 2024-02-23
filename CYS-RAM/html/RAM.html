@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <link rel="icon" href="../images/tifac.ico">
+    <title>Faculty | Research Analysis Metrics</title>
+    <link rel="stylesheet" href="../css/styles.css">
+    <!--<script type="module">
+        import googleSearchResultsNodejs from 'https://cdn.jsdelivr.net/npm/google-search-results-nodejs@2.1.0/+esm'
+        </script>-->
+    <script  src="../js/ram.js" ></script>
+    
+    <style>
+        button:hover {
+          cursor: pointer;
+        }
+      </style>
+</head>
+<body>      
+    <img src="../images/amrita.png" alt="Amrita Vishwa Vidyapeetham" class="ram_Amrita">
+    <img src="../images/tifac.png" alt="TIFAC-CORE in Cyber Security" class="ram_Tifac">
+    <a href="../index.html">
+        <img src="../images/CYS-RAM.png" alt="CYS_Ram" class="cys-ram" >
+    </a>
+    
+    <span style="position: absolute; left: 45%; top: 2%; transform: translate(0%, -18%); color: rgba(0, 0, 139, 0.904); font-size: 1vw;"><h1>Research Analysis and Metrics</h1></span>
+    <div class="ram_container1">
+        <div>
+            <hr>
+            <div class="credits-container dropdown" onclick="show_hide(this)" >
+                <div class="b1"></div>
+                <div class="b2"></div>
+                <div class="b3"></div>
+            </div>
+            <div class="dropdown-content">
+                <span style="position: absolute; left: 8px;">
+                    <p style="color: white;"><b>Credits:</b></p>
+                    <p style="color: white;">Adithya N S</p>
+                    <p style="color: white;">Saride Someswara Sai Sri Chakri</p>
+                    <p style="color: white;">Ramaguru Radhakrishnan</p>
+                </span>
+                
+            </div>
+            <table>
+                <td>
+                    <button class="tabd" onclick="openTab('Faculty')">Faculty</button>
+                </td>
+                <td>
+                    <button class="tabd" onclick="openTab('Research Scholar')">Scholars</button>
+                </td>
+                <td>
+                    <button class="tabd" onclick="openTab('Search by Id')">Search by Id</button> 
+                </td>
+                <td>
+                    <button class="tabd" onclick="openTab('TAG')">TAG</button> 
+                </td>
+            </table>
+        </div>
+        <div class="ram_container2">
+            <div id="Faculty" class="tab-content active-tab">
+                <form onsubmit=checkeventfaculty(event)>
+                    <label for="Name"><h4>Faculty Name:</h4></label>
+                    <select class="styleip" id="name">
+                        <option value="All">All</option>
+                        <option value="Prof. M. Sethumadhavan">Prof. M. Sethumadhavan</option>
+                        <option value="Dr. Chungath Srinivasan">Dr. Chungath Srinivasan</option>
+                        <option value="Dr. P. P. Amritha">Dr. P. P. Amritha</option>
+                        <option value="Dr. K. Praveen">Dr. K. Praveen</option>
+                        <option value="Dr. K.V. Lakshmy">Dr. K.V. Lakshmy</option>
+                        <option value="Mr. Saurabh Shrivastava">Mr. Saurabh Shrivastava</option>
+                        <option value="Mr. R. Ramaguru">Mr. Ramaguru Radhakrishnan</option>
+                        <option value="Dr. K.N. Ambili">Dr. K.N. Ambili</option>
+                        <option value="Mr. Anand R Nair">Mr. Anand R Nair</option>
+                        <option value="Dr. V. Sujitha">Dr. V. Sujitha</option>
+                        <option value="Ms. Hemalatha P">Ms. P Hemalatha</option>
+                    </select>
+            
+                    <label for="Year" id="Year"><h4>Publication Year:</h4></label>
+                    <input type="number" min="2005" max="2024" class="styleip" required>
+            
+                    <label for="Type" ><h4>Type:</h4></label>
+                    <select class="styleip" id="Type">
+                        <option value="All">All</option>
+                        <option>Research Papers</option>
+                        <option>Conference Proceedings</option>
+                        <option>Book Chapter</option>
+                        <option>Journal</option>
+                        <option>Patent</option>
+                        <option>Thesis</option>
+                        <option>Others</option>
+                    </select>
+                    <br><br>
+                    <button type="submit" class="search">Search</button>
+                </form>
+            </div>
+            <div id="Research Scholar" class="tab-content">
+                <form onsubmit="checkevent_research_scholar(event)">
+                    <label for="Name"><h4>Name:</h4></label>
+                    <select class="styleip" id="rsname">
+                                <option>All</option>
+                                <option value="Mr. Harish R">Mr. Harish R</option>
+                                <option value="Mr. Rajeev K">Mr. Rajeev K</option>
+                                <option value="Mr. Aravind Vishnu S S">Mr. Aravind Vishnu S S</option>
+                                <option value="Ms. Zeenath AU">Ms. Zeenath AU</option>
+                                <option value="Mr. Joseph Nelson P">Mr. Joseph Nelson P</option>
+                                <option value="Ms. Vimitha R Vidhya Lakshmi">Ms. Vimitha R Vidhya Lakshmi</option>
+                                <option value="Mr. Mukesh Kumar Bansal">Mr. Mukesh Kumar Bansal</option>
+                                <option value="Ms. Merly Annie Philip">Ms. Merly Annie Philip</option>
+                                <option value="Mr. Muralidharan Chandrasekaran">Mr. Muralidharan Chandrasekaran</option>
+                                <option value="Mr. Chandra Babu Vasasali">Mr. Chandra Babu Vasasali</option>
+                                <option value="Mr. Dalbir Singh Dahiya">Mr. Dalbir Singh Dahiya</option>
+                                <option value="Mr. Balaganesh Bojarajulu">Mr. Balaganesh Bojarajulu</option>
+                                <option value="Mr. Prasanna R">Mr. Prasanna R</option>
+                                <option value="Ms. Meena Lakshmi M">Ms. Meena Lakshmi M</option>
+                                <option value="Mr. Gabriel Anand K S">Mr. Gabriel Anand K S</option>
+                                <option value="Mr. Aljoscha Dietrich">Mr. Aljoscha Dietrich</option>
+                            </select>
+                        
+                            <label for="Year" id="rsyear" ><h4>Publication Year:</h4></label>
+                            <input type="number" min="2005" max="2024" class="styleip"  required>
+                    
+                            <label for="Type" id="Type" ><h4>Type:</h4></label>
+                        
+                            <select class="styleip" id="rstype">
+                                <option value="All">All</option>
+                                <option>Research Papers</option>
+                                <option>Conference Proceedings</option>
+                                <option>Book Chapter</option>
+                                <option>Journal</option>
+                                <option>Patent</option>
+                                <option>Thesis</option>
+                                <option>Others</option>
+                            </select><br><br>                        
+                            <button type="submit" class="search">Search</button>
+                </form>
+            </div>
+    
+            <div id="Search by Id" class="tab-content">
+                <form onsubmit="return checkeventbyID(event)">
+                    <label for="Search_by_Id" ><h4>Google Scholar/Scopus Id:</h4></label>
+                    <input type="text" class="styleip" id="Search_by_Id" placeholder="Enter Id:" minlength="11" maxlength="12" required >
+                    <br><br>
+                    <button type="submit" class="search">Search</button>
+                </form> 
+            </div>
+
+            <div id="TAG" class="tab-content">
+                <table style="margin-left:100px;">
+                    <tr>
+                        <td>
+                            <div class="tag_container">
+                                Cryptography
+                            </div>
+                        </td>
+                        <td>
+                            <div class="tag_container">
+                                Cryptanalysis
+                            </div>
+                        </td>
+                        <td>
+                            <div class="tag_container">
+                                Stegnography
+                            </div>
+                        </td>
+                        <td>
+                            <div class="tag_container">
+                                Steganalysis
+                            </div>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                            <div class="tag_container">
+                                Forensics
+                            </div>
+                        </td>
+                        <td>
+                            <div class="tag_container">
+                                Blockchain Technology
+                            </div>
+                        </td>
+                        <td>
+                            <div class="tag_container">
+                                Visual Cryptography
+                            </div>
+                        </td>
+                        <td>
+                            <div class="tag_container">
+                                Machine Learning
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+            </div>   
+        </div>
+        <div id="output"></div>
+        <div class="ram_images"></div>
+        
+    </div>
+    <footer style="background-color: #ededeec0;padding:2%;width:97%;text-align: center;">
+        &copy; 2024 - CYS-RAM<br>
+        Amrita Vishwa Vidhyapeetham, <br>
+        Coimbatore.
+    </footer>
+</body>
+</html>
